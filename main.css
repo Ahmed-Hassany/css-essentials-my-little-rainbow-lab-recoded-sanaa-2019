@@ -9,3 +9,31 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#R{
+  background: #f00;
+}
+
+#O{
+  background: #ffa500;
+}
+
+#Y{
+  background: #ff0;
+}
+
+#G{
+  background: #00bc3f;
+}
+
+#B{
+  background: #06f;
+}
+
+#I{
+  background: #8a2be2;
+}
+
+#V{
+  background: #d300c9;
+}
